@@ -27,3 +27,9 @@ git push origin main ##démarre la voiture vers le repo
 
 
 ```
+## Création d'une branche
+
+```bash
+git checkout -b nom-branche
+
+```
